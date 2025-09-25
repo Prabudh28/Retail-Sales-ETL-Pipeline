@@ -34,13 +34,6 @@ This project demonstrates an end-to-end data engineering pipeline built to proce
 * **Monthly Sales Trends:** Sales revenue was calculated for each month, revealing seasonal patterns and overall business growth.
 * **High-Value Customers:** The top 10 customers by total spending were identified, highlighting the most valuable customer segment.
 
-### Power BI Dashboard
-
-Here is a screenshot of the final interactive dashboard. It visualizes the key performance indicators (KPIs) derived from the analysis.
-
-*Add your dashboard screenshot here! Drag and drop the image into this README file on GitHub.*
-
-![Power BI Dashboard](path/to/your/dashboard_screenshot.png)
 
 ### How to Run This Project
 
